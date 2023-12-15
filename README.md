@@ -1,5 +1,5 @@
 # handlebars-jest-transformer
-Handlebars transformer for Jest
+Handlebars transformer for Jest. Import handlebars files in your tests!
 
 # To enable the processor add the rule to the transform object in your jest configuration:
 
